@@ -1,4 +1,5 @@
-### Hi there 👋
+### Introduce
+ 세종대학교 화학과 21학번 강찬울 입니다. 처음 뵙겠습니다.
 
 <!--
 **kangchanul/kangchanul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
